@@ -1,0 +1,18 @@
+
+> ol-webpack@1.0.0 build /home/travis/build/MOSjens/motomaps
+> webpack --config webpack.config.js --mode production
+
+ℹ ｢webpack｣: Starting Build
+ℹ ｢webpack｣: Build Finished
+
+webpack v4.35.0
+
+0d95f83cec69175e4c23
+  size    name  module                   status
+  971 kB  11    ./main.js + 169 modules  built
+
+  size    name  asset                    status
+  229 kB  main  bundle.js                emitted
+
+  Δt 6785ms (88 modules hidden)
+
