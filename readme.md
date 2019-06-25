@@ -1,20 +1,10 @@
-# OpenLayers + Webpack
+# motomaps
+Show GPX tracks on a Map, hosted on github pages
 
-This example demonstrates how the `ol` package can be used with webpack.
+can be found under fllowing domain:
+https://mosjens.github.io/motomaps/
 
-Clone the project.
+I use open layers to show the map:
+https://openlayers.org/
 
-    git clone git@github.com:openlayers/ol-webpack.git
-
-Install the project dependencies.
-
-    cd ol-webpack
-    npm install
-
-Create a bundle for the browser.
-
-    npm run build
-
-Open `index.html` to see the result.
-
-    open index.html
+https://openlayers.org/en/latest/examples/gpx.html
