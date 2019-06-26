@@ -1,7 +1,8 @@
+[![Build Status](https://travis-ci.org/MOSjens/motomaps.svg?branch=master)]
+
 # motomaps
 Show GPX tracks on a Map, hosted on github pages
 
-https://travis-ci.org/MOSjens/motomaps.svg?branch=master
 can be found under fllowing domain:
 https://mosjens.github.io/motomaps/
 
