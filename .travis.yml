@@ -6,4 +6,6 @@ deploy:
   on:
     branch: master
 script: travis_wait 10 npm run build
-before_install: npm -version
+before_install:
+- npm install -g npm
+- npm install
