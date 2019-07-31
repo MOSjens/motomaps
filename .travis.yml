@@ -10,3 +10,4 @@ before_install:
 - npm install -g npm
 - npm install ol
 - npm install --save-dev webpack
+- npm install
