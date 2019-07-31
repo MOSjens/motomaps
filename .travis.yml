@@ -9,4 +9,5 @@ script: travis_wait 10 npm run build
 before_install:
 - npm install -g npm
 - npm install ol
+- npm install --save-dev webpack
 - npm install
