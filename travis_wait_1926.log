@@ -5,14 +5,14 @@
 ℹ ｢webpack｣: Starting Build
 ℹ ｢webpack｣: Build Finished
 
-webpack v4.35.0
+webpack v4.38.0
 
-0d95f83cec69175e4c23
+aedc2631b12243f39810
   size    name  module                   status
   971 kB  11    ./main.js + 169 modules  built
 
   size    name  asset                    status
   229 kB  main  bundle.js                emitted
 
-  Δt 6548ms (88 modules hidden)
+  Δt 6630ms (88 modules hidden)
 
