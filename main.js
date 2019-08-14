@@ -37,7 +37,7 @@ import {Circle as CircleStyle, Fill, Stroke, Style} from 'ol/style';
       };
       const vector = new VectorLayer({
         source: new VectorSource({
-         url: 'gpx/2019-05-18_09-53_Sat.gpx',
+         url: './gpx/2019-05-18_09-53_Sat.gpx',
           format: new GPX()
         }),
         style: function(feature) {
