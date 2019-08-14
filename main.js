@@ -3,7 +3,7 @@ import TileLayer from 'ol/layer/Tile';
 import OSM from '/ol/source/OSM';
 import XYZ from 'ol/source/XYZ';
 
-const raster = new Tile({
+const raster = new TileLayer({
 	source: new OSM()
 });
 
