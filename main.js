@@ -5,7 +5,7 @@ import {Tile as TileLayer, Vector as VectorLayer} from 'ol/layer';
 import VectorSource from 'ol/source/Vector';
 import {Circle as CircleStyle, Fill, Stroke, Style} from 'ol/style';
 
-	const raster = new Tile({
+	const raster = new TileLayer({
         source: new OSM()
         });
 
