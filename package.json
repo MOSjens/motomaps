@@ -6,7 +6,7 @@
     "build": "webpack --config webpack.config.js --mode production"
   },
   "devDependencies": {
-    "webpack": "^4.39.1",
+    "webpack": "^4.39.2",
     "webpack-command": "^0.3.0"
   },
   "dependencies": {
